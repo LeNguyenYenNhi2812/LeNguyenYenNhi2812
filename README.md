@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning Ho Chi Minh City UnoverSity of Technology.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/LeNguyenYenNhi2812/LeNguyenYenNhi2812/issues)**
 
 
 
