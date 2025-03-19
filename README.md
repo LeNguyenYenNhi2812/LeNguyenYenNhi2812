@@ -12,7 +12,7 @@
  
  
  
- 🌱 I’m currently learning Ho Chi Minh City UnoverSity of Technology.
+ 🌱 I’m currently learning Ho Chi Minh City UniverSity of Technology.
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/LeNguyenYenNhi2812/LeNguyenYenNhi2812/issues)**
 
